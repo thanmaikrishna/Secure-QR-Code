@@ -144,7 +144,7 @@ python app.py
 | **Divyashree G P** | Lead Developer, Model Builder, HuggingFace Integration |
 | **Bhavani**        | Model Building, Data Collection                        |
 | **Lakshmi B M**    | Idea Discussion, Initial Research                      |
-| **Thanmai Nutheti**| Documentation Review, Testing Feedback                 |
+| **Thanmai Nutheti**| Documentation Review, Testing                          |
 
 
 ## 📜 License
